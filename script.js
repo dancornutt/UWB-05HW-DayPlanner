@@ -54,5 +54,10 @@ $(".saveBtn").on("click", function(event) {
     localStorage.setItem("planner", JSON.stringify(dayPlanner));
 })
 
+function clearDayPlanner() {
+    localStorage.removeItem("planner");
+    refreshPlanner();
+}
+
 refreshPlanner();
 loadTimeClass();
