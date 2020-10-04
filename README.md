@@ -5,6 +5,7 @@ This project is centered on creating a site to help users organize and schedule 
 ## Getting Started
 
 Luckily this is a static site so there isn't much set-up to do. knowledge of javascript would be helpful if you would like to add more functionality to the planner.
+View the site here: [Planner](https://dancornutt.github.io/UWB-05HW-DayPlanner/)
 
 ### Prerequisites
 
@@ -20,7 +21,7 @@ Below are the tools used for this site:
 These are the installation steps to get the site up and running:
 
     * Log into Github
-    * Fork this repo
+    * Fork this repo 
     * Clone your Forked repo on your local machine
     * Navigate to the index.html file and open it in your favorite browser
 
