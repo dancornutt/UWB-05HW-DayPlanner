@@ -2,6 +2,8 @@
 
 This project is centered on creating a site to help users organize and schedule their day. The basis was utilizing Bootsrap's grid system and components. Majority of the styling was provided in a boilerplate css file.
 
+![Day Planner App](https://github.com/dancornutt/UWB-05HW-DayPlanner/blob/master/images/DayPlanner.png)
+
 ## Getting Started
 
 Luckily this is a static site so there isn't much set-up to do. knowledge of javascript would be helpful if you would like to add more functionality to the planner.
